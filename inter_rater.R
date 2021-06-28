@@ -1,4 +1,5 @@
 library(irr)
+library(dplyr)
 
 remove_outliers <- function(x, na.rm = TRUE, ...) {
     qnt <- quantile(x, probs=c(.25, .75), na.rm = na.rm, ...)
