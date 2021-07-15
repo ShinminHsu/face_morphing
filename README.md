@@ -1,4 +1,4 @@
-# face_morhping
+# face_morphing
 See Data Augmentation via Face Morphing  for Recognizing Intensities of Facial Emotions for more details.
 
 Files are described as follows:
